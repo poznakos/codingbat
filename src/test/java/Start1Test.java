@@ -17,4 +17,16 @@ class Start1Test {
         Start1 systemUnderTest = new Start1();
         assertEquals(1, systemUnderTest.start1(new int[]{1, 2}, new int[]{}));
     }
+    void start1_Test4() {
+        Start1 systemUnderTest = new Start1();
+        assertEquals(1, systemUnderTest.start1(new int[]{}, new int[]{1,2}));
+    }
+    void start1_Test5() {
+        Start1 systemUnderTest = new Start1();
+        assertEquals(0, systemUnderTest.start1(new int[]{7}, new int[]{}));
+    }
+    void start1_Test6() {
+        Start1 systemUnderTest = new Start1();
+        assertEquals(0, systemUnderTest.start1(new int[]{}, new int[]{}));
+    }
 }
