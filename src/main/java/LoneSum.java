@@ -12,6 +12,7 @@ public class LoneSum {
         if(a == b){
             return c;
         }
+
         return a + b + c;
 
     }
