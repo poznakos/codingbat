@@ -6,6 +6,7 @@ public class BiggerTwo {
             return b;
         }
         if (sumA > sumB) {
+            System.out.println("");
             return a;
         }
         return a;
