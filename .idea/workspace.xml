@@ -4,8 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="fa2b525d-c370-492b-bf9b-9b38c75fcfd2" name="Changes" comment="makes10">
-      <change afterPath="$PROJECT_DIR$/src/test/java/org/example/codingbat/warmup1/NearHundread.java" afterDir="false" />
+    <list default="true" id="fa2b525d-c370-492b-bf9b-9b38c75fcfd2" name="Changes" comment="Asdzxc">
+      <change afterPath="$PROJECT_DIR$/src/main/java/CigarParty.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/CigarPartyTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -47,11 +48,21 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Class" />
+        <option value="JUnit5 Test Class" />
       </list>
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="tralala" />
+      </map>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RESET_MODE" value="MIXED" />
+  </component>
+  <component name="GitRewordedCommitMessages">
+    <option name="onto" value="090d856cc3e7466333c8ac4f5cbf73398dcd13f9" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -66,11 +77,29 @@
   </component>
   <component name="PropertiesComponent">{
   &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary&quot;: &quot;JUnit5&quot;,
+    &quot;com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5&quot;: &quot;&quot;,
     &quot;settings.editor.selected.configurable&quot;: &quot;preferences.lookFeel&quot;
   }
 }</component>
-  <component name="RunManager" selected="Gradle.NearHundread">
-    <configuration name="Makes10" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+  <component name="RecentsManager">
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Kk\IdeaProjects\codingbat\src\main\java" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="" />
+    </key>
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Gradle.CigarPartyTest">
+    <configuration name="CigarPartyTest" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
       <ExternalSystemSettings>
         <option name="executionName" />
         <option name="externalProjectPath" value="$PROJECT_DIR$" />
@@ -83,7 +112,7 @@
           <list>
             <option value=":test" />
             <option value="--tests" />
-            <option value="&quot;org.example.codingbat.warmup1.Makes10&quot;" />
+            <option value="&quot;CigarPartyTest&quot;" />
           </list>
         </option>
         <option name="vmOptions" />
@@ -93,7 +122,7 @@
       <DebugAllEnabled>false</DebugAllEnabled>
       <method v="2" />
     </configuration>
-    <configuration name="Makes10.if_a_equals_9_and_b_equals_10_then_return_true" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+    <configuration name="MapBullyTest" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
       <ExternalSystemSettings>
         <option name="executionName" />
         <option name="externalProjectPath" value="$PROJECT_DIR$" />
@@ -106,7 +135,7 @@
           <list>
             <option value=":test" />
             <option value="--tests" />
-            <option value="&quot;org.example.codingbat.warmup1.Makes10.if_a_equals_9_and_b_equals_10_then_return_true&quot;" />
+            <option value="&quot;MapBullyTest&quot;" />
           </list>
         </option>
         <option name="vmOptions" />
@@ -116,7 +145,7 @@
       <DebugAllEnabled>false</DebugAllEnabled>
       <method v="2" />
     </configuration>
-    <configuration name="NearHundread" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+    <configuration name="MapBullyTest.mapBully_1" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
       <ExternalSystemSettings>
         <option name="executionName" />
         <option name="externalProjectPath" value="$PROJECT_DIR$" />
@@ -129,7 +158,7 @@
           <list>
             <option value=":test" />
             <option value="--tests" />
-            <option value="&quot;org.example.codingbat.warmup1.NearHundread&quot;" />
+            <option value="&quot;MapBullyTest.mapBully_1&quot;" />
           </list>
         </option>
         <option name="vmOptions" />
@@ -139,7 +168,7 @@
       <DebugAllEnabled>false</DebugAllEnabled>
       <method v="2" />
     </configuration>
-    <configuration name="parrotTrouble" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+    <configuration name="MapBullyTest.mapBully_2" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
       <ExternalSystemSettings>
         <option name="executionName" />
         <option name="externalProjectPath" value="$PROJECT_DIR$" />
@@ -152,7 +181,7 @@
           <list>
             <option value=":test" />
             <option value="--tests" />
-            <option value="&quot;org.example.codingbat.warmup1.parrotTrouble&quot;" />
+            <option value="&quot;MapBullyTest.mapBully_2&quot;" />
           </list>
         </option>
         <option name="vmOptions" />
@@ -162,7 +191,7 @@
       <DebugAllEnabled>false</DebugAllEnabled>
       <method v="2" />
     </configuration>
-    <configuration name="parrotTrouble.when_true_and_26_return_true" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+    <configuration name="MapBullyTest.mapBully_4" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
       <ExternalSystemSettings>
         <option name="executionName" />
         <option name="externalProjectPath" value="$PROJECT_DIR$" />
@@ -175,7 +204,7 @@
           <list>
             <option value=":test" />
             <option value="--tests" />
-            <option value="&quot;org.example.codingbat.warmup1.parrotTrouble.when_true_and_26_return_true&quot;" />
+            <option value="&quot;MapBullyTest.mapBully_4&quot;" />
           </list>
         </option>
         <option name="vmOptions" />
@@ -187,11 +216,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Gradle.NearHundread" />
-        <item itemvalue="Gradle.Makes10.if_a_equals_9_and_b_equals_10_then_return_true" />
-        <item itemvalue="Gradle.Makes10" />
-        <item itemvalue="Gradle.parrotTrouble.when_true_and_26_return_true" />
-        <item itemvalue="Gradle.parrotTrouble" />
+        <item itemvalue="Gradle.CigarPartyTest" />
+        <item itemvalue="Gradle.MapBullyTest.mapBully_4" />
+        <item itemvalue="Gradle.MapBullyTest.mapBully_2" />
+        <item itemvalue="Gradle.MapBullyTest.mapBully_1" />
+        <item itemvalue="Gradle.MapBullyTest" />
       </list>
     </recent_temporary>
   </component>
@@ -239,7 +268,133 @@
       <option name="project" value="LOCAL" />
       <updated>1665935052427</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="In1020">
+      <created>1667303340872</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1667303340872</updated>
+    </task>
+    <task id="LOCAL-00007" summary="HasTeen">
+      <created>1667304071884</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1667304071884</updated>
+    </task>
+    <task id="LOCAL-00008" summary="MixStart">
+      <created>1667333797533</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1667333797533</updated>
+    </task>
+    <task id="LOCAL-00009" summary="LoneTeen">
+      <created>1667646136350</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1667646136350</updated>
+    </task>
+    <task id="LOCAL-00010" summary="DelDel">
+      <created>1667647931750</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1667647931750</updated>
+    </task>
+    <task id="LOCAL-00011" summary="FirstLast6">
+      <created>1667735355490</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1667735355490</updated>
+    </task>
+    <task id="LOCAL-00012" summary="FirstLast6">
+      <created>1667736527620</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1667736527620</updated>
+    </task>
+    <task id="LOCAL-00013" summary="Double23Test">
+      <created>1667738819703</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1667738819703</updated>
+    </task>
+    <task id="LOCAL-00014" summary="Fix23">
+      <created>1668164243912</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1668164243912</updated>
+    </task>
+    <task id="LOCAL-00015" summary="Start1">
+      <created>1668165718380</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1668165718380</updated>
+    </task>
+    <task id="LOCAL-00016" summary="Start01">
+      <created>1668254919423</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1668254919423</updated>
+    </task>
+    <task id="LOCAL-00017" summary="Start01">
+      <created>1668262144486</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1668262144486</updated>
+    </task>
+    <task id="LOCAL-00018" summary="Start01">
+      <created>1668262185833</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1668262185833</updated>
+    </task>
+    <task id="LOCAL-00019" summary="MapBully">
+      <created>1670677096073</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1670677096073</updated>
+    </task>
+    <task id="LOCAL-00020" summary="LoneSum">
+      <created>1671369709939</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1671369709939</updated>
+    </task>
+    <task id="LOCAL-00021" summary="Nazwa">
+      <created>1672138230871</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1672138230871</updated>
+    </task>
+    <task id="LOCAL-00022" summary="Nazwaaaaaa">
+      <created>1672139881392</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1672139881392</updated>
+    </task>
+    <task id="LOCAL-00023" summary="Asdzxc">
+      <created>1672139954881</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1672139954881</updated>
+    </task>
+    <option name="localTasksCounter" value="24" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -252,13 +407,45 @@
         </entry>
       </map>
     </option>
+    <option name="RECENT_FILTERS">
+      <map>
+        <entry key="Branch">
+          <value>
+            <list>
+              <RecentGroup>
+                <option name="FILTER_VALUES">
+                  <option value="main" />
+                </option>
+              </RecentGroup>
+            </list>
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="initial commit" />
     <MESSAGE value="monkeyTrouble" />
     <MESSAGE value="parrotTrouble" />
     <MESSAGE value="makes10" />
-    <option name="LAST_COMMIT_MESSAGE" value="makes10" />
+    <MESSAGE value="In1020" />
+    <MESSAGE value="HasTeen" />
+    <MESSAGE value="MixStart" />
+    <MESSAGE value="LoneTenn" />
+    <MESSAGE value="LoneTeen" />
+    <MESSAGE value="DelDel" />
+    <MESSAGE value="FirstLast6" />
+    <MESSAGE value="Double23Test" />
+    <MESSAGE value="Fix23" />
+    <MESSAGE value="Start1" />
+    <MESSAGE value="BiggerTwo" />
+    <MESSAGE value="Start01" />
+    <MESSAGE value="MapBully" />
+    <MESSAGE value="LoneSum" />
+    <MESSAGE value="Nazwa" />
+    <MESSAGE value="Nazwaaaaaa" />
+    <MESSAGE value="Asdzxc" />
+    <option name="LAST_COMMIT_MESSAGE" value="Asdzxc" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -273,10 +460,51 @@
           <line>6</line>
           <option name="timeStamp" value="4" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/MixStartTest.java</url>
+          <line>4</line>
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/DelDelTest.java</url>
+          <line>9</line>
+          <option name="timeStamp" value="12" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/MapBully.java</url>
+          <line>21</line>
+          <option name="timeStamp" value="15" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/MapBullyTest.java</url>
+          <line>21</line>
+          <option name="timeStamp" value="16" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/MapBullyTest.java</url>
+          <line>22</line>
+          <option name="timeStamp" value="17" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/MapBully.java</url>
+          <line>18</line>
+          <option name="timeStamp" value="18" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/MapBully.java</url>
+          <line>15</line>
+          <option name="timeStamp" value="21" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/MapBullyTest.java</url>
+          <line>70</line>
+          <option name="timeStamp" value="22" />
+        </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/codingbat$BiggerTwoTest.ic" NAME="BiggerTwoTest Coverage Results" MODIFIED="1668262067682" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
     <SUITE FILE_PATH="coverage/codingbat$monkeyTrouble.ic" NAME="monkeyTrouble Coverage Results" MODIFIED="1665855595633" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
   </component>
 </project>
