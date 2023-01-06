@@ -5,8 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="fa2b525d-c370-492b-bf9b-9b38c75fcfd2" name="Changes" comment="Asdzxc">
-      <change afterPath="$PROJECT_DIR$/src/main/java/CigarParty.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/CigarPartyTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/DateFashion.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/DateFashionTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -84,6 +84,11 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;preferences.lookFeel&quot;
   }
 }</component>
+  <component name="Push.Settings">
+    <force-push-targets>
+      <force-push-target remote-path="origin" branch="main" />
+    </force-push-targets>
+  </component>
   <component name="RecentsManager">
     <key name="CreateTestDialog.Recents.Supers">
       <recent name="" />
@@ -98,7 +103,7 @@
       <recent name="" />
     </key>
   </component>
-  <component name="RunManager" selected="Gradle.CigarPartyTest">
+  <component name="RunManager" selected="Gradle.DateFashionTest">
     <configuration name="CigarPartyTest" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
       <ExternalSystemSettings>
         <option name="executionName" />
@@ -122,7 +127,7 @@
       <DebugAllEnabled>false</DebugAllEnabled>
       <method v="2" />
     </configuration>
-    <configuration name="MapBullyTest" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+    <configuration name="DateFashionTest" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
       <ExternalSystemSettings>
         <option name="executionName" />
         <option name="externalProjectPath" value="$PROJECT_DIR$" />
@@ -135,7 +140,7 @@
           <list>
             <option value=":test" />
             <option value="--tests" />
-            <option value="&quot;MapBullyTest&quot;" />
+            <option value="&quot;DateFashionTest&quot;" />
           </list>
         </option>
         <option name="vmOptions" />
@@ -216,11 +221,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Gradle.DateFashionTest" />
         <item itemvalue="Gradle.CigarPartyTest" />
         <item itemvalue="Gradle.MapBullyTest.mapBully_4" />
         <item itemvalue="Gradle.MapBullyTest.mapBully_2" />
         <item itemvalue="Gradle.MapBullyTest.mapBully_1" />
-        <item itemvalue="Gradle.MapBullyTest" />
       </list>
     </recent_temporary>
   </component>
@@ -394,7 +399,14 @@
       <option name="project" value="LOCAL" />
       <updated>1672139954881</updated>
     </task>
-    <option name="localTasksCounter" value="24" />
+    <task id="LOCAL-00024" summary="Asdzxc">
+      <created>1673012554084</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1673012554084</updated>
+    </task>
+    <option name="localTasksCounter" value="25" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
