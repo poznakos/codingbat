@@ -5,8 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="fa2b525d-c370-492b-bf9b-9b38c75fcfd2" name="Changes" comment="Copies3">
-      <change afterPath="$PROJECT_DIR$/src/main/java/MoreY.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/MoreYTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Math1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/Math1Test.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/Copies3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Copies3.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/Has12.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Has12.java" afterDir="false" />
@@ -105,7 +105,7 @@
       <recent name="" />
     </key>
   </component>
-  <component name="RunManager" selected="Gradle.MoreYTest">
+  <component name="RunManager" selected="Gradle.Math1Test">
     <configuration name="AddStarTest" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
       <ExternalSystemSettings>
         <option name="executionName" />
@@ -175,6 +175,29 @@
       <DebugAllEnabled>false</DebugAllEnabled>
       <method v="2" />
     </configuration>
+    <configuration name="Math1Test" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value=":test" />
+            <option value="--tests" />
+            <option value="&quot;Math1Test&quot;" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <ExternalSystemDebugServerProcess>false</ExternalSystemDebugServerProcess>
+      <ExternalSystemReattachDebugProcess>true</ExternalSystemReattachDebugProcess>
+      <DebugAllEnabled>false</DebugAllEnabled>
+      <method v="2" />
+    </configuration>
     <configuration name="MoreYTest" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
       <ExternalSystemSettings>
         <option name="executionName" />
@@ -198,36 +221,13 @@
       <DebugAllEnabled>false</DebugAllEnabled>
       <method v="2" />
     </configuration>
-    <configuration name="SquareTest" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
-      <ExternalSystemSettings>
-        <option name="executionName" />
-        <option name="externalProjectPath" value="$PROJECT_DIR$" />
-        <option name="externalSystemIdString" value="GRADLE" />
-        <option name="scriptParameters" value="" />
-        <option name="taskDescriptions">
-          <list />
-        </option>
-        <option name="taskNames">
-          <list>
-            <option value=":test" />
-            <option value="--tests" />
-            <option value="&quot;SquareTest&quot;" />
-          </list>
-        </option>
-        <option name="vmOptions" />
-      </ExternalSystemSettings>
-      <ExternalSystemDebugServerProcess>false</ExternalSystemDebugServerProcess>
-      <ExternalSystemReattachDebugProcess>true</ExternalSystemReattachDebugProcess>
-      <DebugAllEnabled>false</DebugAllEnabled>
-      <method v="2" />
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Gradle.Math1Test" />
         <item itemvalue="Gradle.MoreYTest" />
         <item itemvalue="Gradle.Copies3Test" />
         <item itemvalue="Gradle.Copies3Test.copies3_2" />
         <item itemvalue="Gradle.AddStarTest" />
-        <item itemvalue="Gradle.SquareTest" />
       </list>
     </recent_temporary>
   </component>
@@ -464,7 +464,14 @@
       <option name="project" value="LOCAL" />
       <updated>1675510669390</updated>
     </task>
-    <option name="localTasksCounter" value="33" />
+    <task id="LOCAL-00033" summary="MoreY">
+      <created>1676116606647</created>
+      <option name="number" value="00033" />
+      <option name="presentableId" value="LOCAL-00033" />
+      <option name="project" value="LOCAL" />
+      <updated>1676116606647</updated>
+    </task>
+    <option name="localTasksCounter" value="34" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -494,7 +501,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="makes10" />
     <MESSAGE value="In1020" />
     <MESSAGE value="HasTeen" />
     <MESSAGE value="MixStart" />
@@ -519,7 +525,8 @@
     <MESSAGE value="Square" />
     <MESSAGE value="addStar" />
     <MESSAGE value="Copies3" />
-    <option name="LAST_COMMIT_MESSAGE" value="Copies3" />
+    <MESSAGE value="MoreY" />
+    <option name="LAST_COMMIT_MESSAGE" value="MoreY" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
