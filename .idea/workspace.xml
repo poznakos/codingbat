@@ -4,10 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="fa2b525d-c370-492b-bf9b-9b38c75fcfd2" name="Changes" comment="Asdzxc">
-      <change afterPath="$PROJECT_DIR$/src/main/java/DateFashion.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/DateFashionTest.java" afterDir="false" />
+    <list default="true" id="fa2b525d-c370-492b-bf9b-9b38c75fcfd2" name="Changes" comment="Copies3">
+      <change afterPath="$PROJECT_DIR$/src/main/java/MoreY.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/MoreYTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Copies3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Copies3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Has12.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Has12.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -103,8 +105,8 @@
       <recent name="" />
     </key>
   </component>
-  <component name="RunManager" selected="Gradle.DateFashionTest">
-    <configuration name="CigarPartyTest" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+  <component name="RunManager" selected="Gradle.MoreYTest">
+    <configuration name="AddStarTest" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
       <ExternalSystemSettings>
         <option name="executionName" />
         <option name="externalProjectPath" value="$PROJECT_DIR$" />
@@ -117,7 +119,7 @@
           <list>
             <option value=":test" />
             <option value="--tests" />
-            <option value="&quot;CigarPartyTest&quot;" />
+            <option value="&quot;AddStarTest&quot;" />
           </list>
         </option>
         <option name="vmOptions" />
@@ -127,7 +129,7 @@
       <DebugAllEnabled>false</DebugAllEnabled>
       <method v="2" />
     </configuration>
-    <configuration name="DateFashionTest" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+    <configuration name="Copies3Test" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
       <ExternalSystemSettings>
         <option name="executionName" />
         <option name="externalProjectPath" value="$PROJECT_DIR$" />
@@ -140,7 +142,7 @@
           <list>
             <option value=":test" />
             <option value="--tests" />
-            <option value="&quot;DateFashionTest&quot;" />
+            <option value="&quot;Copies3Test&quot;" />
           </list>
         </option>
         <option name="vmOptions" />
@@ -150,7 +152,7 @@
       <DebugAllEnabled>false</DebugAllEnabled>
       <method v="2" />
     </configuration>
-    <configuration name="MapBullyTest.mapBully_1" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+    <configuration name="Copies3Test.copies3_2" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
       <ExternalSystemSettings>
         <option name="executionName" />
         <option name="externalProjectPath" value="$PROJECT_DIR$" />
@@ -163,7 +165,7 @@
           <list>
             <option value=":test" />
             <option value="--tests" />
-            <option value="&quot;MapBullyTest.mapBully_1&quot;" />
+            <option value="&quot;Copies3Test.copies3_2&quot;" />
           </list>
         </option>
         <option name="vmOptions" />
@@ -173,7 +175,7 @@
       <DebugAllEnabled>false</DebugAllEnabled>
       <method v="2" />
     </configuration>
-    <configuration name="MapBullyTest.mapBully_2" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+    <configuration name="MoreYTest" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
       <ExternalSystemSettings>
         <option name="executionName" />
         <option name="externalProjectPath" value="$PROJECT_DIR$" />
@@ -186,7 +188,7 @@
           <list>
             <option value=":test" />
             <option value="--tests" />
-            <option value="&quot;MapBullyTest.mapBully_2&quot;" />
+            <option value="&quot;MoreYTest&quot;" />
           </list>
         </option>
         <option name="vmOptions" />
@@ -196,7 +198,7 @@
       <DebugAllEnabled>false</DebugAllEnabled>
       <method v="2" />
     </configuration>
-    <configuration name="MapBullyTest.mapBully_4" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+    <configuration name="SquareTest" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
       <ExternalSystemSettings>
         <option name="executionName" />
         <option name="externalProjectPath" value="$PROJECT_DIR$" />
@@ -209,7 +211,7 @@
           <list>
             <option value=":test" />
             <option value="--tests" />
-            <option value="&quot;MapBullyTest.mapBully_4&quot;" />
+            <option value="&quot;SquareTest&quot;" />
           </list>
         </option>
         <option name="vmOptions" />
@@ -221,11 +223,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Gradle.DateFashionTest" />
-        <item itemvalue="Gradle.CigarPartyTest" />
-        <item itemvalue="Gradle.MapBullyTest.mapBully_4" />
-        <item itemvalue="Gradle.MapBullyTest.mapBully_2" />
-        <item itemvalue="Gradle.MapBullyTest.mapBully_1" />
+        <item itemvalue="Gradle.MoreYTest" />
+        <item itemvalue="Gradle.Copies3Test" />
+        <item itemvalue="Gradle.Copies3Test.copies3_2" />
+        <item itemvalue="Gradle.AddStarTest" />
+        <item itemvalue="Gradle.SquareTest" />
       </list>
     </recent_temporary>
   </component>
@@ -406,7 +408,63 @@
       <option name="project" value="LOCAL" />
       <updated>1673012554084</updated>
     </task>
-    <option name="localTasksCounter" value="25" />
+    <task id="LOCAL-00025" summary="DateFashion">
+      <created>1673015015638</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1673015015638</updated>
+    </task>
+    <task id="LOCAL-00026" summary="SquirrelPlay">
+      <created>1673098448634</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1673098448634</updated>
+    </task>
+    <task id="LOCAL-00027" summary="Has12">
+      <created>1673184482205</created>
+      <option name="number" value="00027" />
+      <option name="presentableId" value="LOCAL-00027" />
+      <option name="project" value="LOCAL" />
+      <updated>1673184482205</updated>
+    </task>
+    <task id="LOCAL-00028" summary="Has12">
+      <created>1673705075098</created>
+      <option name="number" value="00028" />
+      <option name="presentableId" value="LOCAL-00028" />
+      <option name="project" value="LOCAL" />
+      <updated>1673705075098</updated>
+    </task>
+    <task id="LOCAL-00029" summary="Doubling">
+      <created>1673782465320</created>
+      <option name="number" value="00029" />
+      <option name="presentableId" value="LOCAL-00029" />
+      <option name="project" value="LOCAL" />
+      <updated>1673782465320</updated>
+    </task>
+    <task id="LOCAL-00030" summary="Square">
+      <created>1673783215521</created>
+      <option name="number" value="00030" />
+      <option name="presentableId" value="LOCAL-00030" />
+      <option name="project" value="LOCAL" />
+      <updated>1673783215521</updated>
+    </task>
+    <task id="LOCAL-00031" summary="addStar">
+      <created>1673783925716</created>
+      <option name="number" value="00031" />
+      <option name="presentableId" value="LOCAL-00031" />
+      <option name="project" value="LOCAL" />
+      <updated>1673783925716</updated>
+    </task>
+    <task id="LOCAL-00032" summary="Copies3">
+      <created>1675510669390</created>
+      <option name="number" value="00032" />
+      <option name="presentableId" value="LOCAL-00032" />
+      <option name="project" value="LOCAL" />
+      <updated>1675510669390</updated>
+    </task>
+    <option name="localTasksCounter" value="33" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -436,9 +494,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="initial commit" />
-    <MESSAGE value="monkeyTrouble" />
-    <MESSAGE value="parrotTrouble" />
     <MESSAGE value="makes10" />
     <MESSAGE value="In1020" />
     <MESSAGE value="HasTeen" />
@@ -457,7 +512,14 @@
     <MESSAGE value="Nazwa" />
     <MESSAGE value="Nazwaaaaaa" />
     <MESSAGE value="Asdzxc" />
-    <option name="LAST_COMMIT_MESSAGE" value="Asdzxc" />
+    <MESSAGE value="DateFashion" />
+    <MESSAGE value="SquirrelPlay" />
+    <MESSAGE value="Has12" />
+    <MESSAGE value="Doubling" />
+    <MESSAGE value="Square" />
+    <MESSAGE value="addStar" />
+    <MESSAGE value="Copies3" />
+    <option name="LAST_COMMIT_MESSAGE" value="Copies3" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -511,6 +573,11 @@
           <url>file://$PROJECT_DIR$/src/test/java/MapBullyTest.java</url>
           <line>70</line>
           <option name="timeStamp" value="22" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/Copies3Test.java</url>
+          <line>34</line>
+          <option name="timeStamp" value="24" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
