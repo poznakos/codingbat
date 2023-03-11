@@ -5,8 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="fa2b525d-c370-492b-bf9b-9b38c75fcfd2" name="Changes" comment="Copies3">
-      <change afterPath="$PROJECT_DIR$/src/main/java/Math1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/Math1Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Fibonacci.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Pre4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/FibonacciTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/Pre4Test.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/Copies3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Copies3.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/Has12.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Has12.java" afterDir="false" />
@@ -83,6 +85,7 @@
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary&quot;: &quot;JUnit5&quot;,
     &quot;com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5&quot;: &quot;&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/Kk/IdeaProjects/library-backend&quot;,
     &quot;settings.editor.selected.configurable&quot;: &quot;preferences.lookFeel&quot;
   }
 }</component>
@@ -105,8 +108,8 @@
       <recent name="" />
     </key>
   </component>
-  <component name="RunManager" selected="Gradle.Math1Test">
-    <configuration name="AddStarTest" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+  <component name="RunManager" selected="Gradle.Pre4Test">
+    <configuration name="FibonacciTest" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
       <ExternalSystemSettings>
         <option name="executionName" />
         <option name="externalProjectPath" value="$PROJECT_DIR$" />
@@ -119,7 +122,7 @@
           <list>
             <option value=":test" />
             <option value="--tests" />
-            <option value="&quot;AddStarTest&quot;" />
+            <option value="&quot;FibonacciTest&quot;" />
           </list>
         </option>
         <option name="vmOptions" />
@@ -129,7 +132,7 @@
       <DebugAllEnabled>false</DebugAllEnabled>
       <method v="2" />
     </configuration>
-    <configuration name="Copies3Test" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+    <configuration name="FibonacciTest.generateSequence_1" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
       <ExternalSystemSettings>
         <option name="executionName" />
         <option name="externalProjectPath" value="$PROJECT_DIR$" />
@@ -142,30 +145,7 @@
           <list>
             <option value=":test" />
             <option value="--tests" />
-            <option value="&quot;Copies3Test&quot;" />
-          </list>
-        </option>
-        <option name="vmOptions" />
-      </ExternalSystemSettings>
-      <ExternalSystemDebugServerProcess>false</ExternalSystemDebugServerProcess>
-      <ExternalSystemReattachDebugProcess>true</ExternalSystemReattachDebugProcess>
-      <DebugAllEnabled>false</DebugAllEnabled>
-      <method v="2" />
-    </configuration>
-    <configuration name="Copies3Test.copies3_2" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
-      <ExternalSystemSettings>
-        <option name="executionName" />
-        <option name="externalProjectPath" value="$PROJECT_DIR$" />
-        <option name="externalSystemIdString" value="GRADLE" />
-        <option name="scriptParameters" value="" />
-        <option name="taskDescriptions">
-          <list />
-        </option>
-        <option name="taskNames">
-          <list>
-            <option value=":test" />
-            <option value="--tests" />
-            <option value="&quot;Copies3Test.copies3_2&quot;" />
+            <option value="&quot;FibonacciTest.generateSequence_1&quot;" />
           </list>
         </option>
         <option name="vmOptions" />
@@ -198,7 +178,7 @@
       <DebugAllEnabled>false</DebugAllEnabled>
       <method v="2" />
     </configuration>
-    <configuration name="MoreYTest" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+    <configuration name="Pre4Test" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
       <ExternalSystemSettings>
         <option name="executionName" />
         <option name="externalProjectPath" value="$PROJECT_DIR$" />
@@ -211,7 +191,30 @@
           <list>
             <option value=":test" />
             <option value="--tests" />
-            <option value="&quot;MoreYTest&quot;" />
+            <option value="&quot;Pre4Test&quot;" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <ExternalSystemDebugServerProcess>false</ExternalSystemDebugServerProcess>
+      <ExternalSystemReattachDebugProcess>true</ExternalSystemReattachDebugProcess>
+      <DebugAllEnabled>false</DebugAllEnabled>
+      <method v="2" />
+    </configuration>
+    <configuration name="Pre4Test.pre4_2" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value=":test" />
+            <option value="--tests" />
+            <option value="&quot;Pre4Test.pre4_2&quot;" />
           </list>
         </option>
         <option name="vmOptions" />
@@ -223,11 +226,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Gradle.Pre4Test" />
+        <item itemvalue="Gradle.Pre4Test.pre4_2" />
+        <item itemvalue="Gradle.FibonacciTest.generateSequence_1" />
+        <item itemvalue="Gradle.FibonacciTest" />
         <item itemvalue="Gradle.Math1Test" />
-        <item itemvalue="Gradle.MoreYTest" />
-        <item itemvalue="Gradle.Copies3Test" />
-        <item itemvalue="Gradle.Copies3Test.copies3_2" />
-        <item itemvalue="Gradle.AddStarTest" />
       </list>
     </recent_temporary>
   </component>
@@ -471,7 +474,14 @@
       <option name="project" value="LOCAL" />
       <updated>1676116606647</updated>
     </task>
-    <option name="localTasksCounter" value="34" />
+    <task id="LOCAL-00034" summary="Math1">
+      <created>1676118246075</created>
+      <option name="number" value="00034" />
+      <option name="presentableId" value="LOCAL-00034" />
+      <option name="project" value="LOCAL" />
+      <updated>1676118246075</updated>
+    </task>
+    <option name="localTasksCounter" value="35" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -501,7 +511,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="In1020" />
     <MESSAGE value="HasTeen" />
     <MESSAGE value="MixStart" />
     <MESSAGE value="LoneTenn" />
@@ -526,7 +535,8 @@
     <MESSAGE value="addStar" />
     <MESSAGE value="Copies3" />
     <MESSAGE value="MoreY" />
-    <option name="LAST_COMMIT_MESSAGE" value="MoreY" />
+    <MESSAGE value="Math1" />
+    <option name="LAST_COMMIT_MESSAGE" value="Math1" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -586,8 +596,48 @@
           <line>34</line>
           <option name="timeStamp" value="24" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/FibonacciTest.java</url>
+          <line>10</line>
+          <option name="timeStamp" value="29" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/Pre4Test.java</url>
+          <line>14</line>
+          <option name="timeStamp" value="30" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/Pre4.java</url>
+          <line>5</line>
+          <option name="timeStamp" value="32" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/Pre4.java</url>
+          <line>14</line>
+          <option name="timeStamp" value="33" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/Pre4.java</url>
+          <line>6</line>
+          <option name="timeStamp" value="34" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/Pre4.java</url>
+          <line>7</line>
+          <option name="timeStamp" value="39" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/Pre4.java</url>
+          <line>15</line>
+          <option name="timeStamp" value="40" />
+        </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
+    <watches-manager>
+      <configuration name="GradleRunConfiguration">
+        <watch expression="nums[i] " />
+      </configuration>
+    </watches-manager>
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/codingbat$BiggerTwoTest.ic" NAME="BiggerTwoTest Coverage Results" MODIFIED="1668262067682" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />

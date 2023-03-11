@@ -19,7 +19,7 @@ public class Has12 {
             if (nums[i] == 2 ) {
                 indexOfTwo = i;
                 isTwoInArray = true;
-            }
+            } 
         }
         if(!isOneInArray || !isTwoInArray){
             return false;
